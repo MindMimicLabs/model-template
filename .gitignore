@@ -1,0 +1,9 @@
+# IDE
+.vscode/
+
+# Python cache
+__pycache__
+.pytest_cache
+
+# WinMerge
+*.bak
